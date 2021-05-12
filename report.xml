@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<venta>
+  <venta>
+    <Idventa>2</Idventa>
+    <Nombres>Josue Joaquin</Nombres>
+    <Apellidos>Moron Ramos</Apellidos>
+    <Fecha>2021-05-10 20:10:10</Fecha>
+    <NomProducto>Leche Evaporada</NomProducto>
+    <Precio>3.50</Precio>
+    <Cantidad>100</Cantidad>
+  </venta>
+</venta>
